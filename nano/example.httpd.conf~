@@ -5,16 +5,16 @@ Listen 80
 NameVirtualHost *:80
 
 <VirtualHost *:80>
-DocumentRoot /www/unix
-ServerName www.unix.com
+DocumentRoot /www/example1
+ServerName www.example.com
 
 # Other directives here
 
 </VirtualHost>
 
 <VirtualHost *:80>
-DocumentRoot /www/unix
-ServerName www.unix.org
+DocumentRoot /www/example2
+ServerName www.example.org
 
 # Other directives here
 

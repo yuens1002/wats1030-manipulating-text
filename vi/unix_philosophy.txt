@@ -1,0 +1,4 @@
+The Unix Philosophy
+From The UNIX Programming Environment (1984) by Brian Kernighan and Rob Pike
+
+Even though he UNIX system introduces a number of innovatives programs and techiques, no single program or idea makes it work well.  Instead, what makes it effective is the approach to programming, a philosophy of using the computer.  Although that philosophy can't be written down in a single sentence, at its hear is the idea that the power fo a system comes more from teh realtinships among programs than from the programs themsevleves.  Many UNIX programs do quite trivial things in isolation, but, combined with other programs, become general and useful tools.  
